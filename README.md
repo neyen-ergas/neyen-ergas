@@ -1,10 +1,11 @@
-
+<img align="left" src ="https://pa1.narvii.com/7977/3d09e977f8c3d329e0f15bdfdfe30e21efda4ed7r1-540-540_128.gif" alt="punpun" width="90" height="90"/>
+### Hey!
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neyen-ergas&show_icons=true&theme=midnight-purple)
 
-<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neyen-ergas&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=6&exclude_repo=JAGUARETE_KAA)](https://github.com/anuraghazra/github-readme-stats)
-<a  target="_blank"> <img src ="https://pa1.narvii.com/7977/3d09e977f8c3d329e0f15bdfdfe30e21efda4ed7r1-540-540_128.gif" alt="punpun" width="90" height="90"/>
-</p>
+
+
 
 <!--
 **neyen-ergas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
