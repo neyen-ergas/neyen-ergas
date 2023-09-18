@@ -1,4 +1,4 @@
-<img align="left" src="https://pa1.narvii.com/7977/3d09e977f8c3d329e0f15bdfdfe30e21efda4ed7r1-540-540_128.gif">
+<img align="left" src="https://pa1.narvii.com/7977/3d09e977f8c3d329e0f15bdfdfe30e21efda4ed7r1-540-540_128.gif" width:50px height:50px>
 
 ### Hey! 
 <br/>
